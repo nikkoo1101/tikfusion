@@ -70,8 +70,8 @@ IN NO EVENT SHALL TIKFUSION, ITS DIRECTORS, EMPLOYEES, PARTNERS, AGENTS, SUPPLIE
 
 ## 11. Governing Law
 
-These Terms shall be governed by the laws of [Your Country/State], without regard to its conflict of law provisions.
+These Terms shall be governed by the laws of United States, California, without regard to its conflict of law provisions.
 
 ## 12. Contact Us
 
-If you have any questions about these Terms, please contact us at [your-email@example.com].
+If you have any questions about these Terms, please contact us at nikkoo1101@gmail.com.
